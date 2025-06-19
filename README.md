@@ -16,8 +16,7 @@
 
 ## 🛠️ Tech Stack  
 - `Python`  
-- `TensorFlow / Keras`  
-- `NumPy`, `Pandas`, `Matplotlib`, `Seaborn`  
-- `OpenCV` (for preprocessing)  
-- `Google Colab` or Jupyter Notebooks  
+- `TensorFlow`  
+- `NumPy`, `Pandas`, `Matplotlib`  
+- `Google Colab` 
 
